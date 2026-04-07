@@ -19,7 +19,8 @@ An AI-powered web app that analyzes resumes against job descriptions and provide
 - Works even without API credits (fallback system)
 
 ##  Output Preview
-![Output Screenshot](screenshot.png)
+![<img width="900" height="752" alt="image" src="https://github.com/user-attachments/assets/ec4c249e-d9a1-4b90-a66e-dd2aefbc72ef" />
+](screenshot.png)
 
 ## 🚀 How to Run
 
