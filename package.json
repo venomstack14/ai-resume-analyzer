@@ -1,0 +1,14 @@
+{
+  "name": "resume-ai-analyzer",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "api/analyze.js",
+  "scripts": {
+    "start": "node api/analyze.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1"
+  }
+}
